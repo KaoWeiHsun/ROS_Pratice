@@ -1,0 +1,2 @@
+franka_ros-release;moveit_tutorials;panda_moveit_config
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=C:\Ros_workSpace\moveit_tutorial\devel -DCMAKE_INSTALL_PREFIX=C:\Ros_workSpace\moveit_tutorial\install -G NMake Makefiles

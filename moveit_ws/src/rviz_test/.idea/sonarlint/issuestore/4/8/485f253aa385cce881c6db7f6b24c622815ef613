@@ -1,0 +1,11 @@
+
+hpython:S1542J"PRename function "makeBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Õñ‚²
+upython:S1542_"XRename function "makeEmptyMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(•õŸ”ûÿÿÿÿ
+ppython:S117_"TRename this parameter "dummyBox" to match the regular expression ^[_a-z][a-z0-9_]*$.(•õŸ”ûÿÿÿÿ
+lpython:S1542?"ORename function "modeCb" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨îÎ”øÿÿÿÿ
+opython:S1542X"WRename function "makeBoxControl" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Öó‹ı
+Xpython:PrintStatementUsageG"-Replace print statement by built-in function.(ü¿Á–ûÿÿÿÿ
+lpython:S1542v"ORename function "deepCb" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ô“Öéøÿÿÿÿ
+ipython:S1542."QRename function "enableCb" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(“”Ñ¶
+npython:S1542y"QRename function "initMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜»üøÿÿÿÿ
+tpython:S1542h"WRename function "makeMenuMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(«Ä‡§ûÿÿÿÿ

@@ -1,0 +1,12 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/bag_publisher_maintain_time.dir/src/bag_publisher_maintain_time.cpp.obj"
+  "C:/Ros_workSpace/moveit_tutorial/devel/lib/moveit_tutorials/bag_publisher_maintain_time.pdb"
+  "C:/Ros_workSpace/moveit_tutorial/devel/lib/moveit_tutorials/bag_publisher_maintain_time.exe"
+  "C:/Ros_workSpace/moveit_tutorial/devel/lib/moveit_tutorials/bag_publisher_maintain_time.exe.manifest"
+  "C:/Ros_workSpace/moveit_tutorial/devel/lib/bag_publisher_maintain_time.lib"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/bag_publisher_maintain_time.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,17 @@
+
+ppython:S1542é"WRename function "make6DofMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ÿè≥À
+}python:S1542Æ"_Rename function "makeQuadrocopterMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(π¡á∂˛ˇˇˇˇ
+npython:S15421"VRename function "frameCallback" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜Ñî≈
+spython:S1542„"ZRename function "makePanTiltMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(∂∏£Å
+kpython:S1542"SRename function "saveMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ËªÌµ
+ppython:S1542Ñ"WRename function "makeMenuMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(À†≈ê
+rpython:S1542ù"YRename function "makeMovingMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(⁄Ù¢û
+opython:S1542x"WRename function "makeBoxControl" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷Ûã˝
+mpython:S3776é"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ÿè≥À
+upython:S15427"XRename function "processFeedback" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ùˇò˚˘ˇˇˇˇ
+upython:S1542Ü"\Rename function "normalizeQuaternion" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(üüƒ
+vpython:S1542∆"]Rename function "makeChessPieceMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(·”ø·
+hpython:S1542j"PRename function "makeBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(’ÒÇ≤
+vpython:S1542ê"]Rename function "makeViewFacingMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Á“∆…
+lpython:S1542["TRename function "alignMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ë†À¿
+tpython:S1542ˆ"\Rename function "makeRandomDofMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(è¬‡

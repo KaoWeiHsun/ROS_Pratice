@@ -1,0 +1,8 @@
+
+npython:S117"WRename this parameter "validPoints" to match the regular expression ^[_a-z][a-z0-9_]*$.(”˜¶û
+xpython:S117ó"[Rename this local variable "minPt_3d_x" to match the regular expression ^[_a-z][a-z0-9_]*$.(îáÆüÿÿÿÿ
+xpython:S117ô"[Rename this local variable "maxPt_3d_x" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ Ãúÿÿÿÿ
+spython:S117õ"[Rename this local variable "minPt_3d_y" to match the regular expression ^[_a-z][a-z0-9_]*$.(î¸Œ
+spython:S117ö"[Rename this local variable "maxPt_3d_y" to match the regular expression ^[_a-z][a-z0-9_]*$.(Şş³ï
+ypython:S15426"aRename function "get_chessboard_points_3D" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(îÍ€
+~python:S1542á"`Rename function "get_boundary_corners_2D" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¯¿÷®ÿÿÿÿÿ

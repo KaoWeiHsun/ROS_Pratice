@@ -1,0 +1,8 @@
+prefix=C:/Ros_workSpace/moveit_tutorial/devel
+
+Name: moveit_tutorials
+Description: Description of moveit_tutorials
+Version: 0.1.0
+Cflags: -IC:/Ros_workSpace/moveit_tutorial/src/moveit_tutorials/doc/interactivity/include -IC:/opt/rosdeps/x64/include/eigen3
+Libs: -LC:/Ros_workSpace/moveit_tutorial/devel/lib -linteractivity_utils
+Requires: moveit_core moveit_visual_tools moveit_ros_planning_interface interactive_markers

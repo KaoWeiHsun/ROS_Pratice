@@ -1,0 +1,8 @@
+prefix=C:/Ros_workSpace/moveit_tutorial/devel
+
+Name: franka_description
+Description: Description of franka_description
+Version: 0.6.0
+Cflags: 
+Libs: -LC:/Ros_workSpace/moveit_tutorial/devel/lib 
+Requires: xacro

@@ -1,0 +1,17 @@
+<launch>
+
+    <!--註解-->
+
+    <!--name是node的名子，在程式中init中可以輸入name,這個相當於在執行init並輸入name-->
+        <!--ros::init() 提供name將會被覆蓋,就算這node 在程式寫經匿名,依舊不會匿名-->
+        <!--如果想要使用匿名創建name,使用anon 來代替name屬性,name="$(anon base_name)"-->
+
+    <!--pkg package name-->
+    <!--type 實際執行的程式-->
+    <!--output 可以選擇是輸出到畫面(screen)或是log檔案中(log)-->
+    <!--respawn 重生,啟動所有請求的節點後，roslaunch 會自動監測每個節點，當某個節點被停止
+                想要自動的重啟，可使用respawn -->
+    <!--Requiring 當某非常重要節點死掉，強制關閉全部launch 中的其他節點 -->
+    <node name="$(anon test_talker)" pkg="rospy_tutorials"
+          type="talker.py" output="screen" respawn="true" ns="gro"/>
+</launch>
